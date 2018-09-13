@@ -5,6 +5,8 @@
 
 本项目主要搭建了**SpringCloud**中常用组件，以供开发中学习和使用，以下是项目中涉及到组件说明:
 
+**SpringBoot版本更新为2.0.3.RELEASE，SpringCloud版本更新为Finchley.RELEASE**
+
 * **Eureka**，服务注册中心，特性有失效剔除、服务保护
 
 * **Zuul**，API服务网关，功能有路由分发和过滤
